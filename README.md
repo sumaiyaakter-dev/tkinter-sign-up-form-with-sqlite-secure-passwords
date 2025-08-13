@@ -9,7 +9,7 @@
 
 💡 Small projects like this help build practical, real-world coding skills.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 - **Python 3.x**
 - **Tkinter** – For the graphical user interface
 - **SQLite** – For database management
